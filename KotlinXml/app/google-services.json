@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709536725433",
+    "project_id": "coopmart-4172c",
+    "storage_bucket": "coopmart-4172c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709536725433:android:34e08199ada0062cc21e68",
+        "android_client_info": {
+          "package_name": "com.example.kotlinxml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJrfRJ2dF-49cXDMR41DuiX8JL0Q6sYpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+# Thư mục build được tự động sinh ra khi build project
+/build/
+/app/build/
+/gradle/
+/.gradle/
+/captures/
+
+# Thư mục của Android Studio
+/.idea/
+/.idea/*
+
+# Các file liên quan đến Gradle
+*.iml
+.gradle/
+/local.properties
+/.gradle/
+/*.gradle
+.gradle/caches/
+/.gradle/wrapper/dists/
+
+# Các file liên quan đến cache hoặc logs
+/captures/
+/outputs/
+/captures/
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+
+# Ignore các file hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Các file liên quan đến môi trường cá nhân
+local.properties

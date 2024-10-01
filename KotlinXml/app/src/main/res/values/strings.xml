@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinXml</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_spash_screen">SpashScreenActivity</string>
+    <string name="title_activity_product_detail">ProductDetailActivity</string>
+</resources>
